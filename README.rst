@@ -6,8 +6,12 @@ This is things used for github project.
 
 include config/image/data/notes.
 
-:rst_quick_start:
+Image
+-----
+
+
+rst_quick_start
     https://github.com/Rykka/github_things/raw/master/image/rst_quick_start.gif
 
-:autotype:
+autotype
     https://github.com/Rykka/github_things/raw/master/image/autotype.gif
