@@ -17,3 +17,8 @@ rst_quick_start
 
 autotype
     https://github.com/Rykka/github_things/raw/master/image/autotype.gif
+
+Theme Wu
+    https://github.com/Rykka/github_things/raw/master/image/wu01.png
+    https://github.com/Rykka/github_things/raw/master/image/wu02.png
+    https://github.com/Rykka/github_things/raw/master/image/wu03.png
