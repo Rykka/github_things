@@ -22,3 +22,4 @@ Theme Wu
     https://github.com/Rykka/github_things/raw/master/image/wu01.png
     https://github.com/Rykka/github_things/raw/master/image/wu02.png
     https://github.com/Rykka/github_things/raw/master/image/wu03.png
+    https://github.com/Rykka/github_things/raw/master/image/wu04.png
