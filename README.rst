@@ -12,6 +12,10 @@ Image
 -----
 
 
+colorv
+    https://github.com/Rykka/github_things/raw/master/image/colorv.png
+    
+
 rst_quick_start
     https://github.com/Rykka/github_things/raw/master/image/rst_quick_start.gif
 
